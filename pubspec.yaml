@@ -1,0 +1,10 @@
+name: space_shared
+version: 0.1.0
+author: Heikki Haapala <hhaapala@gmail.com>
+dependencies:
+  siege_engine:
+    path: /home/hhaapala/dart/siege_engine
+
+#dependencies:
+#  js: any
+#  unittest: any
