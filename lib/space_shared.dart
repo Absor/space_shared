@@ -13,3 +13,5 @@ part 'components/camera_centering_component.dart';
 
 part 'systems/input_processing_system.dart';
 part 'systems/movement_system.dart';
+
+part 'utils/messages.dart';
