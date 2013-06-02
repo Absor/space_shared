@@ -5,6 +5,6 @@ class InputComponent extends Component {
   int thrust;
   
   Map toJson() {
-    return {"turn":turn,"thrust":thrust};
+    return {"tu":turn,"th":thrust};
   }
 }

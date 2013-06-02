@@ -4,6 +4,6 @@ class RotationComponent extends Component {
   num angle;
   
   Map toJson() {
-    return {"angle":angle};
+    return {"a":angle};
   }
 }
